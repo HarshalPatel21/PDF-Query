@@ -1,0 +1,6 @@
+streamlit 
+python-dotenv 
+langchain-google-genai 
+langchain-astradb 
+pypdf
+langchain-community
